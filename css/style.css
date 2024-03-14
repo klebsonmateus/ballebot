@@ -1,0 +1,18 @@
+:root {
+    --primary-color:#2F2325;
+    --secondary-color: #8E5D52;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(47,35,37);
+    background: linear-gradient(30deg, rgba(47,35,37,1) 10%, rgba(142,93,82,1) 90%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
